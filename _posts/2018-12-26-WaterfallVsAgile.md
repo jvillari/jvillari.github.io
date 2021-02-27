@@ -17,9 +17,10 @@ Before I start, here are some simple definitions of both Methodologies. [Waterfa
 
 **Agile** - “a practice that helps continuous iteration of development and testing in the software development process” by allowing these activities to be concurrent with one another. “This process allows more communication between customers, developers, managers, and testers.” It’s important to note that Agile is open to change when it benefits the product and client.
 
-Here is a nice infographic detailing the differences
+Here is a nice infographic detailing the differences.
 
 ![agile-scrum-vs-waterfall](https://saigontechnology.com/assets/media/agile-scrum-vs-waterfall.png){: .mx-auto.d-block :}
+[Reference](https://saigontechnology.com/blog/agile-vs-waterfall-in-software-development)
 
 My Experience With Waterfall
 ======
