@@ -5,7 +5,9 @@ subtitle: My personal experience with both SDLCs
 tags: [books]
 ---
 
-Everyone in the Software industry knows Waterfall is outdated and many despise it for it’s rigidity and long feedback loops. How do software teams get rid of these problems? Enter: Agile. With Agile, you are able to be flexible with your process by changing something that doesn’t work and trying something new to increase productivity, quality, and even morale. I have become a huge supporter of agile.
+Everyone in the Software industry knows Waterfall is outdated and many despise it for it’s rigidity and long feedback loops. How do software teams get rid of these problems? 
+
+Enter: Agile. With Agile, you are able to be flexible with your process by changing something that doesn’t work and trying something new to increase productivity, quality, and even morale. I have become a huge supporter of agile.
 
 Before I start, here are some simple definitions of both Methodologies. [Waterfall Vs. Agile](https://www.guru99.com/waterfall-vs-agile.html):
 
