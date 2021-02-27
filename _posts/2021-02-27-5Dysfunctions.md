@@ -2,9 +2,9 @@
 layout: post
 title: 5 Dysfunctions Of A Team
 subtitle: What I learned from Patrick Lencioni's great book about teams
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/5dysfunctional.jpg
+thumbnail-img: /assets/img/5dysfunctional.jpg
+share-img: /assets/img/5dysfunctional.jpg
 tags: [books]
 ---
 
