@@ -1,7 +1,11 @@
 ---
 layout: post
-comments: true
-title: The 5 Dysfunctions Of A Team
+title: 5 Dysfunctions Of A Team
+subtitle: What I learned from Patrick Lencioni's great book about teams
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books]
 ---
 
 Why did Scrum Masters and Management do this so often? Did they really like TLC’s “Don’t Go Chasing Waterfalls”? Or was it merely because they didn’t want to deconflict the real issues? I previously read [“The 5 Dysfunctions of a Team”](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) by Patrick Lencioni. I highly recommend this reading. What I learned from this reading is that our management team was dysfunctional. They lacked one very important aspect of a successful team. And that is the ability to commit to decisions for the development teams when they needed decisions to be made.
