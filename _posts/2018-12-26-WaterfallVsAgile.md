@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Waterfall Vs Agile
+thumbnail-img: /assets/img/agile-scrum-vs-waterfall.png
+share-img: /assets/img/agile-scrum-vs-waterfall.png
 subtitle: My Personal Experience With Both SDLCs
 tags: [Waterfall, Agile, SDLC]
 ---
@@ -17,7 +19,7 @@ Before I start, here are some simple definitions of both Methodologies. [Waterfa
 
 Here is a nice infographic detailing the differences
 
-![alt text] (https://saigontechnology.com/assets/media/agile-scrum-vs-waterfall.png)
+![agile-scrum-vs-waterfall](https://saigontechnology.com/assets/media/agile-scrum-vs-waterfall.png){: .mx-auto.d-block :}
 
 My Experience With Waterfall
 ======
