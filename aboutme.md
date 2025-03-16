@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: All I know is that I know nothing
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Socrates has been a major influence in my life. Constant questioning leads to a world full of wonder and excitement. As a professional software engineer, his words always come back to me in the most fondest ways. I started this blog to document these ponderings a while back. Alas, life got the best of me and I never followed through. To know me, you must know Socrates. If you do not, please look him up!
 
 ### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a father, husband, and life-long philosopher. 
